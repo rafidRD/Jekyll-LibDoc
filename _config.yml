@@ -3,7 +3,7 @@
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
 
-title: LibDoc # title of the documentation
+title: Documentation # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   A Jekyll documentation theme with built-in search and playground
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
@@ -168,7 +168,7 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc # Local or remote URL
+        -   url: https://github.com/rafidrd/Jekyll-LibDoc # Local or remote URL
             title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
             order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
